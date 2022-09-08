@@ -3,9 +3,11 @@
 ## 🌱 I’m currently learning WebDev
 
 ### Here's [my portfolio](https://electromorphous.github.io/)
+-->
+
 # 💫 About Me:
 🌱 I’m currently learning node.js, mongo, GCP<br>💬 Ask me about react.js, UI/UX
--->
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aseer-uz-zaman) 
