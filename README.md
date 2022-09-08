@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aseer</h1>
+<h1 align="center">Hi 👋 I'm Aseer</h1>
 <h3 align="center">Developer. Quick-learner. Problem-solver with an eye for design.</h3>
 
 - 🌱 I’m currently learning **node.js, mongo**
