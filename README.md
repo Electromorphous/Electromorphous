@@ -2,8 +2,6 @@
 
 ## 🌱 I’m currently learning WebDev
 
-### checkout my very professional website right here 👉 [Electromorphous.com](https://youtu.be/dQw4w9WgXcQ)
-
 <!--
 **Electromorphous/Electromorphous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
