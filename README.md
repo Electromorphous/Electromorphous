@@ -6,7 +6,7 @@
 -->
 
 # 💫 About Me
-🌱 I’m currently learning node.js, mongo, GCP<br>💬 Ask me about react.js, UI/UX
+🌱 I’m currently learning node.js, mongo<br>💬 Ask me about react.js, UI/UX
 
 
 ## 🌐 Socials
