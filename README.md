@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **node.js, mongo**
 
-- 👨‍💻 Some of my projects are available at [https://electromorphous.github.io/](https://electromorphous.github.io/)
+- 👨‍💻 Some of my projects are available at [electromorphous.github.io](https://electromorphous.github.io/)
 
 - 💬 Ask me about **react.js, UI/UX**
 
