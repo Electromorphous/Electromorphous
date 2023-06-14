@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react.js, UI/UX**
 
-- ⚡ Fun fact **I have 2 cats**
+- ⚡ Fun fact **I just got into fullstack**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
