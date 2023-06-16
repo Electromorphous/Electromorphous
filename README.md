@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react.js, UI/UX**
 
-- ⚡ Fun fact **Just moved to Dubai**
+- ⚡ Fun fact **I just moved to Dubai**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
