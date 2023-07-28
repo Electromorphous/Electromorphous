@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Aseer</h1>
 <h3 align="center">Developer. Quick-learner. Problem-solver with an eye for design.</h3>
 
-- 🌱 I’m currently learning **electron and prisma**
+- 🌱 I’m currently learning **electron, prisma, and LLMs**
 
 - 👨‍💻 Some of my projects are available at [electromorphous.github.io](https://electromorphous.github.io/)
 
