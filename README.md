@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **react.js, UI/UX**
 
-- ⚡ Fun fact **I am new to content writing**
-
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://dev.to/electromorphous" target="blank"><img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--pcSkTMZL--/c_limit,f_auto,fl_progressive,q_80,w_190/https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" alt="electromorphous" height="40" width="40" /></a>
