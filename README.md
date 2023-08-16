@@ -7,7 +7,7 @@
 <h3 align="left">Read my blogs. Get in touch.</h3>
 <p align="left">
 <a href="https://electromorphous.hashnode.dev" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="electromorphous" height="40" width="40" /></a>
-<a href="https://dev.to/electromorphous" target="blank"><img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--pcSkTMZL--/c_limit,f_auto,fl_progressive,q_80,w_190/https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" alt="electromorphous" height="40" width="40" /></a>
+<a href="https://dev.to/electromorphous" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="electromorphous" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/aseer-uz-zaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aseer-uz-zaman" height="30" width="40" /></a>
 
 </p>
