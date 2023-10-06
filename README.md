@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Aseer</h1>
+<h1 align="center">👋 Hello</h1>
 
 🌱 I’m currently learning **Web3, AWS, WebGL and more** <br/>
 👨‍💻 Some of my projects are available at [electromorphous.github.io](https://electromorphous.github.io/) <br/>
