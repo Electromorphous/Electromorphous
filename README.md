@@ -16,9 +16,10 @@
 <br/>
 
 <div align="center">
-  
+
 [![Electromorphous's GitHub | Stats](https://stats.quine.sh/Electromorphous/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Electromorphous)
 
-[![Electromorphous's GitHub | Languages Over Time](https://stats.quine.sh/Electromorphous/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Electromorphous)
+
+[![An image of @electromorphous's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/electromorphous)](https://holopin.io/@electromorphous)
 
 </div>
