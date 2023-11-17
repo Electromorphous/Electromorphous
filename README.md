@@ -1,9 +1,9 @@
 <h1 align="center">Hi! I'm Aseer</h1>
 <p align="center">Welcome to my GitHub profile &nbsp;  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="17px"></p>
 
-🌱 I’m currently learning **Web3, AWS, WebGL and more** <br/>
+🌱 I’m currently learning **Web3, AWS, WebGL and more**. <br/>
 👨‍💻 Some of my projects are available at [electromorphous.github.io](https://electromorphous.github.io/) <br/>
-💬 Ask me about **react.js, UI/UX**
+💬 Ask me about **react.js, UI/UX**.
 
 <h3 align="center">Read my blogs & Get in touch</h3>
 <p align="center">
