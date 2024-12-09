@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Aseer</h1>
 <p align="center">Welcome to my GitHub profile &nbsp;  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="17px"></p>
 
-### Checkout my very professional portfolio [right here](https://youtu.be/xvFZjo5PgG0?si=g__lDnTGxZoYYbu_)
+### Checkout my very professional portfolio [right here](https://youtu.be/lpiB2wMc49g?si=SvYXh0rZ4zhGHJwP)
 
 🌱 I’m currently learning **Web3, AWS, WebGL and more**. <br/>
 👨‍💻 Some of my projects are available at [electromorphous.github.io](https://electromorphous.github.io/) <br/>
